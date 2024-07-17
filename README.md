@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/johnnatan-lopes-9b59ba218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Johnnatan Lopes" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnatanLopes&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnatanLopes&show_icons=true&locale=en&layout=compact" alt="JohnnatanLopes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnatanLopes&show_icons=true&locale=en" alt="JohnnatanLopes" /></p>
 
