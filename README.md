@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnatanLopes&show_icons=true&locale=en&layout=compact" alt="JohnnatanLopes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnatanLopes&show_icons=true&locale=en" alt="JohnnatanLopes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnatanLopes&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnnatanLopes&" alt="JohnnatanLopes" /></p>
 
