@@ -1,7 +1,6 @@
 - Olá, eu sou Johnnatan Lopes! 👋
-- 🌱 Estudando Java ...
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ele/dele ...
+- 🌱 Estudando Java
+- 😄 Pronouns: ele/dele
 
 <!---
 JohnnatanLopes/JohnnatanLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
